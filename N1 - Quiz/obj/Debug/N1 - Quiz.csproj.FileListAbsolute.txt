@@ -1,0 +1,31 @@
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N1 - Quiz\N1 - Quiz\bin\Debug\N1 - Quiz.exe.config
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N1 - Quiz\N1 - Quiz\bin\Debug\N1 - Quiz.exe
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N1 - Quiz\N1 - Quiz\bin\Debug\N1 - Quiz.pdb
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N1 - Quiz\N1 - Quiz\obj\Debug\N1 - Quiz.csprojAssemblyReference.cache
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N1 - Quiz\N1 - Quiz\obj\Debug\N1 - Quiz.exe
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N1 - Quiz\N1 - Quiz\obj\Debug\N1 - Quiz.pdb
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N2\N1 - Quiz\N1 - Quiz\bin\Debug\N1 - Quiz.exe.config
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N2\N1 - Quiz\N1 - Quiz\bin\Debug\N1 - Quiz.exe
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N2\N1 - Quiz\N1 - Quiz\bin\Debug\N1 - Quiz.pdb
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N2\N1 - Quiz\N1 - Quiz\obj\Debug\N1 - Quiz.exe
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N2\N1 - Quiz\N1 - Quiz\obj\Debug\N1 - Quiz.pdb
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N2\N1 - Quiz\N1 - Quiz\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N2\N1 - Quiz\N1 - Quiz\obj\Debug\Interop.WMLSS.dll
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N2\N1 - Quiz\N1 - Quiz\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N2\N1 - Quiz\N1 - Quiz\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N2\N1 - Quiz\N1 - Quiz\obj\Debug\Interop.WMPLib.dll
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N2\N1 - Quiz\N1 - Quiz\obj\Debug\N1 - Quiz.csproj.ResolveComReference.cache
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\N2\N1 - Quiz\N1 - Quiz\obj\Debug\N1 - Quiz.csprojAssemblyReference.cache
+C:\Users\Toxic Guy\Desktop\N1 - Quiz\N1 - Quiz\bin\Debug\N1 - Quiz.exe.config
+C:\Users\Toxic Guy\Desktop\N1 - Quiz\N1 - Quiz\bin\Debug\N1 - Quiz.exe
+C:\Users\Toxic Guy\Desktop\N1 - Quiz\N1 - Quiz\bin\Debug\N1 - Quiz.pdb
+C:\Users\Toxic Guy\Desktop\N1 - Quiz\N1 - Quiz\obj\Debug\N1 - Quiz.csprojAssemblyReference.cache
+C:\Users\Toxic Guy\Desktop\N1 - Quiz\N1 - Quiz\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Toxic Guy\Desktop\N1 - Quiz\N1 - Quiz\obj\Debug\Interop.WMLSS.dll
+C:\Users\Toxic Guy\Desktop\N1 - Quiz\N1 - Quiz\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Toxic Guy\Desktop\N1 - Quiz\N1 - Quiz\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\Toxic Guy\Desktop\N1 - Quiz\N1 - Quiz\obj\Debug\Interop.WMPLib.dll
+C:\Users\Toxic Guy\Desktop\N1 - Quiz\N1 - Quiz\obj\Debug\N1 - Quiz.csproj.ResolveComReference.cache
+C:\Users\Toxic Guy\Desktop\N1 - Quiz\N1 - Quiz\obj\Debug\N1 - Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Toxic Guy\Desktop\N1 - Quiz\N1 - Quiz\obj\Debug\N1 - Quiz.exe
+C:\Users\Toxic Guy\Desktop\N1 - Quiz\N1 - Quiz\obj\Debug\N1 - Quiz.pdb

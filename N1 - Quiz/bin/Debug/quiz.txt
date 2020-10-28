@@ -1,0 +1,45 @@
+Quantas Copas tem a Espanha? | Futebol | 1 | 2 | 0 | 1 | 3 
+Quem foi o criador da Amazon? | Tecnologia | Jeff Bezos | Jeff Bezos | Jan Koum | David Karp | Stephen Hawking 
+Em que país Hitler nasceu? | História | Áustria | Escócia | Alemanha | Áustria | Polônia 
+Quando foi o Término da Revolução Francesa? | História | 1799 | 1888 | 1799 | 1801 | 1750 
+Napoleão _______ Complete: | História | Bonaparte | De La Cruz | Bonaparte | Segundo | William 
+Os gregos eram, em grande maioria: | História | Politeístas | Sacerdotes | Politeístas | Monoteístas | Cristãos 
+Qual foi a característica da OTAN na Guerra Fria?  | História | Capitalista | Comunista | Capitalista | Anarquista | Fascista 
+Por quantos clubes Diego Souza já passou? | Futebol | 13 | 10 | 8 | 9 | 13 
+Qual desses NÃO faz parte do mesmo Desenho? | Desenho | Jerry | Mickey Mouse | Pato Donald | Jerry | Pluto  
+Qual desses não é um cachorro? | Desenho | Tom | Pluto | Scooby-Doo | Pateta | Tom  
+Maior Campeão Inglês: | Futebol | Manchester United | Manchester United | Manchester City | Liverpool | Arsenal  
+Maior Campeão Gaúcho: | Futebol | Internacional | Juventude | Caxias | Grêmio | Internacional  
+Maior Campeão Português: | Futebol | Benfica | Porto | Benfica | Sporting | Boavista  
+Maior Campeão Acriano: | Futebol | Rio Branco |Juventus | Atlético Acreano | Rio Branco | Vasco da Gama  
+Raiz quadrada de 3600: | Matemática | 60 | 36 | 60 | 6 | 160  
+Qual foi o ano da invenção do Internet? | História | 1969 | 1969 | 1946 | 1985 | 1930  
+Melhor amigo do Cebolinha | Desenho | Cascão| Mônica | Pumba | Cascão | Franjinha 
+Raiz quadrada de 2025: | Matemática | 45 | 55 | 45 | 25 | 35 
+Quantos títulos Daniel Alves tem em sua carreira? | Futebol | 40 | 25 | 26 | 40 | 33  
+Qual foi o ano do início da Ditadura no Brasil? | História | 1964 | 1974 | 1959 | 1985 | 1964  
+Melhor amigo do Bob Esponja | Desenho | Patrick | Lula Molusco| Seu Siriguejo | Sandy | Patrick  
+Quem foi o criador da SpaceX? | Tecnologia | Elon Musk | Steve Chen | Elon Musk | David Karp | Mike Krieger 
+Qual foi o primeiro Presidente do Brasil | História | Campo Sales | Floriano Peixoto | Deodoro da Fonseca | Campo Sales | Getúlio Vargas 
+Onde foram lançadas as bombas nucleares? |História | Japão | Japão | China | Taiwan | Filipinas 
+Quem foi o criador do Google? | Tecnologia | Larry Page | Bill Gates | Jan Koum | David Karp | Larry Page 
+Qual foi o ano da invenção do Linux? | História | 1991 | 1970 | 1991 | 1950 | 1970 
+Melhor amigo de Zé Colmeia | Desenho | Catatau | Bob Esponja | Batman | Catatau | Salsicha 
+Qual desses personagens é um rato? | Desenho | Jerry | Tom | Catatau | Pumba | Jerry 
+Qual Estado ganhou mais vezes o Brasileirão? | Futebol | São Paulo | São Paulo | Rio de Janeiro | Minas Gerais | Rio Grande do Sul 
+Quantos gols em jogos oficiais o Pelé tem em sua carreira? | Futebol | 1281 | 1281| 1203 | 1135 | 1243 
+Maior Campeão Espanhol: | Futebol | Real Madrid| Barcelona | Atlético de Madrid | Real Madrid | Valencia 
+Maior Campeão Argentino: | Futebol | River Plate | River Plate | Boca Juniors | Racing Club | Independiente 
+Quantos títulos o Peñarol tem na libertadores? | Futebol | 5 | 2 | 3 | 1 | 5 
+Raiz quadrada de 400: | Matemática | 20 | 24 | 200 | 20 | 21 
+Qual foi o ano da invenção da calculadora? | História | 1642 | 1544 | 1642 | 1666 | 1700 
+Em string, quanto é 1+1? | Tecnologia | 11 | 22 | 2 | 0 | 11 
+Qual desses é um sistema operacional? | Tecnologia | Linux| Torrent | Word | Linux | Roblox 
+Primeiro país a ganhar uma Copa do Mundo | Futebol | Uruguai | Argentina | Brasil | Uruguai | Inglaterra 
+Quantos Mundiais tem o Palmeiras? | Futebol | 0 |1 | 2 | 0 | 3 
+Quantos Brasileirão tem o Flamengo? | Futebol | 6 | 6 | 8 | 4 | 5 
+Raiz quadrada de 225: | Matemática | 15 | 17 | 38 | 25 | 15 
+Quem foi o criador da Apple? | Tecnologia | Steve Jobs | Bill Gates | Mark Zuckerberg | Steve Jobs | Mike Krieger 
+Quantas Champions League o Real Madrid tem? | Futebol | 13 | 11 | 15 | 13 | 10 
+Melhor amigo da Mônica | Desenho | Magali | Magali | Cebolinha | Cascão | Franjinha 
+Raiz quadrada de 14400: | Matemática | 120 | 34 | 111 | 120 | 130
